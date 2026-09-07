@@ -5,15 +5,15 @@ about:
   head: 32080cc
   archived: false
   latestVersion: "v0.4.2"
-  collectedAt: 2026-09-07T05:57:33Z
+  collectedAt: 2026-09-07T18:40:42Z
 timeline:
   created: 2018-08-01
   lastCommit: 2026-05-08
   lastRelease: 2026-04-24
 popularity:
-  star: 15477
+  star: 15481
   watcher: 116
-  fork: 541
+  fork: 542
   release: 23
   contributor: 53
   pullRequest: 441
@@ -81,7 +81,7 @@ total:
   commit: 565
 ---
 path: /home/runner/.x-repo/github.com/benfred/py-spy
-collectedAt: 2026-09-07T05:57:35Z
+collectedAt: 2026-09-07T18:40:43Z
 loc:
   Rust:
     code: 68759
@@ -259,7 +259,7 @@ checks:
       - 'Warn: 10 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:57:47+00:00
+  collectedAt: 2026-09-07T18:40:44+00:00
   platform:
     darwin/arm64:
       name:  py_spy-0.4.2-py2.py3-none-macosx_11_0_arm64.whl
