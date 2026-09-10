@@ -1,61 +1,61 @@
 # py-spy
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Sampling profiler for Python programs
 
-![py-spy](https://repo.x-cmd.io/py-spy.svg)
+![py-spy](https://repo.x-cmd.io/py-spy.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install py-spy
 ```
 
-## Code insight
+## 代码规模
 
-Total: **74,739** lines of code across **58** files in the top 5 languages.
+合计: **74,739** 行代码（覆盖前 5 种语言、共 **58** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 68,759 | 641 | 1,071 | 39 |
 | C | 4,994 | 220 | 160 | 1 |
 | Python | 537 | 41 | 128 | 15 |
 | Svg | 306 | 0 | 2 | 1 |
 | Toml | 76 | 0 | 10 | 2 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **4.5 / 10**
+总评分: **4.5 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/benfred/py-spy>
-- **License**: MIT
+- **上游仓库**: <https://github.com/benfred/py-spy>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.4.2` (2026-04-24)
-- **Last commit**: 2026-05-08
-- **Assets in release**: 8
+- **最新版本**: `v0.4.2` (2026-04-24)
+- **最近提交**: 2026-05-08
+- **Release 含资产**: 8 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 15,490 · **Forks**: 544 · **Open issues**: 422 · **Contributors**: 53
+- **Star**: 15,490 · **Fork**: 544 · **开放 issue**: 422 · **贡献者**: 53
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 23 · **Merged PRs**: 305 · **Open PRs**: 50 · **Closed issues**: 232 · **Open issues**: 190 · **Commits**: 565
+- **发布数**: 23 · **已合并 PR**: 305 · **开放 PR**: 50 · **已关闭 issue**: 232 · **开放 issue**: 190 · **提交数**: 565
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 1 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 7 | 0 | 2 | 0 |
@@ -64,10 +64,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 1 | 14 | 21 | 3 | 17 | 16 |
 | last720d | 2024-09-20 | 3 | 65 | 30 | 20 | 51 | 77 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [py_spy-0.4.2-py2.py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2-py2.py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl) | 3.6 MiB | `native/darwin/arm64` |
 | [py_spy-0.4.2-py2.py3-none-macosx_11_0_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2-py2.py3-none-macosx_11_0_arm64.whl) | 1.8 MiB | `native/darwin/arm64` |
 | [py_spy-0.4.2-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl) | 2.7 MiB | `native/linux/arm64` |
@@ -77,23 +77,23 @@ Lowest-scoring checks:
 | [py_spy-0.4.2-py2.py3-none-win_amd64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2-py2.py3-none-win_amd64.whl) | 1.8 MiB | `other` |
 | [py_spy-0.4.2.tar.gz](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2.tar.gz) | 279.7 KiB | `native/unknown` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **18** distros on [repology.org](https://repology.org/project/py-spy). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/py-spy) 上共有 **18** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.4.2` | ✅ latest |
 | Nix unstable | `0.4.2` | ✅ latest |
 | Void | `0.4.0` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `py-spy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+py-spy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `py-spy` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/py-spy.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/py-spy.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:12:01Z._
