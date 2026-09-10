@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.2"
   latestRelease: "v0.4.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:11:55Z
+  collectedAt: 2026-09-10T22:37:46Z
 timeline:
   created: 2018-08-01
   lastCommit: 2026-05-08
@@ -85,7 +85,7 @@ total:
   commit: 565
 ---
 path: /home/runner/.x-repo/github.com/benfred/py-spy
-collectedAt: 2026-09-10T21:11:56Z
+collectedAt: 2026-09-10T22:37:48Z
 loc:
   Rust:
     code: 68759
