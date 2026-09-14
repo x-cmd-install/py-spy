@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,494 · **Forks**: 544 · **Open issues**: 422 · **Contributors**: 53
+- **Stars**: 15,497 · **Forks**: 544 · **Open issues**: 422 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 7 | 0 | 2 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 11 | 0 | 2 | 0 |
-| last180d | 2026-03-17 | 1 | 13 | 17 | 0 | 6 | 16 |
-| 360d | 2025-09-18 | 1 | 14 | 21 | 3 | 17 | 16 |
-| last720d | 2024-09-23 | 3 | 65 | 30 | 20 | 51 | 77 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 7 | 0 | 2 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last180d | 2026-03-18 | 1 | 13 | 17 | 0 | 6 | 16 |
+| 360d | 2025-09-19 | 1 | 14 | 21 | 3 | 17 | 16 |
+| last720d | 2024-09-24 | 3 | 65 | 30 | 20 | 51 | 77 |
 
 ## Release assets
 
@@ -77,16 +77,6 @@ Lowest-scoring checks:
 | [py_spy-0.4.2-py2.py3-none-win_amd64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2-py2.py3-none-win_amd64.whl) | 1.8 MiB | `other` |
 | [py_spy-0.4.2.tar.gz](https://github.com/benfred/py-spy/releases/download/v0.4.2/py_spy-0.4.2.tar.gz) | 279.7 KiB | `native/unknown` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/py-spy). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.2` | ✅ latest |
-| Nix unstable | `0.4.2` | ✅ latest |
-| Void | `0.4.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `py-spy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +86,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:13:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:26:23Z._
