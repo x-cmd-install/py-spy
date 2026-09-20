@@ -4,7 +4,7 @@
 
 Sampling profiler for Python programs
 
-![py-spy](https://repo.x-cmd.io/py-spy.svg)
+[![x-cmd/install — py-spy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/py-spy.svg)](https://x-cmd.com/install/py-spy)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,505 · **Forks**: 546 · **Open issues**: 423 · **Contributors**: 53
+- **Stars**: 15,507 · **Forks**: 546 · **Open issues**: 423 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 305 · **Open PRs**: 50 · **Closed issues**: 232 · **Open issues**: 191 · **Commits**: 565
+- **Releases**: 23 · **Merged PRs**: 305 · **Open PRs**: 51 · **Closed issues**: 232 · **Open issues**: 191 · **Commits**: 565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 4 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 10 | 0 | 3 | 0 |
-| last180d | 2026-03-22 | 1 | 13 | 17 | 0 | 7 | 16 |
-| 360d | 2025-09-23 | 1 | 14 | 21 | 3 | 18 | 16 |
-| last720d | 2024-09-28 | 3 | 65 | 30 | 20 | 52 | 77 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 11 | 0 | 3 | 0 |
+| last180d | 2026-03-24 | 1 | 13 | 17 | 0 | 7 | 16 |
+| 360d | 2025-09-25 | 1 | 14 | 22 | 3 | 18 | 16 |
+| last720d | 2024-09-30 | 3 | 65 | 31 | 20 | 52 | 77 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:31:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:34Z._
