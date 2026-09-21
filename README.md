@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,507 · **Forks**: 546 · **Open issues**: 423 · **Contributors**: 53
+- **Stars**: 15,507 · **Forks**: 547 · **Open issues**: 424 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 305 · **Open PRs**: 51 · **Closed issues**: 232 · **Open issues**: 191 · **Commits**: 565
+- **Releases**: 23 · **Merged PRs**: 305 · **Open PRs**: 52 · **Closed issues**: 232 · **Open issues**: 192 · **Commits**: 565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 2 | 0 |
-| 90d | 2026-06-22 | 0 | 0 | 11 | 0 | 3 | 0 |
-| last180d | 2026-03-24 | 1 | 13 | 17 | 0 | 7 | 16 |
-| 360d | 2025-09-25 | 1 | 14 | 22 | 3 | 18 | 16 |
-| last720d | 2024-09-30 | 3 | 65 | 31 | 20 | 52 | 77 |
+| 30d | 2026-08-22 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 12 | 0 | 4 | 0 |
+| last180d | 2026-03-25 | 1 | 13 | 18 | 0 | 8 | 16 |
+| 360d | 2025-09-26 | 1 | 14 | 23 | 3 | 19 | 16 |
+| last720d | 2024-10-01 | 3 | 65 | 32 | 20 | 53 | 77 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:34Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:27:45Z._
