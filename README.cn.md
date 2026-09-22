@@ -30,8 +30,8 @@ x install py-spy
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install py-spy
 
 ## 流行度
 
-- **Star**: 15,507 · **Fork**: 547 · **开放 issue**: 424 · **贡献者**: 53
+- **Star**: 15,510 · **Fork**: 547 · **开放 issue**: 424 · **贡献者**: 53
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install py-spy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 6 | 0 | 3 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 12 | 0 | 4 | 0 |
-| last180d | 2026-03-25 | 1 | 13 | 18 | 0 | 8 | 16 |
-| 360d | 2025-09-26 | 1 | 14 | 23 | 3 | 19 | 16 |
-| last720d | 2024-10-01 | 3 | 65 | 32 | 20 | 53 | 77 |
+| 30d | 2026-08-23 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 11 | 0 | 4 | 0 |
+| last180d | 2026-03-26 | 1 | 13 | 18 | 0 | 8 | 16 |
+| 360d | 2025-09-27 | 1 | 14 | 23 | 3 | 19 | 16 |
+| last720d | 2024-10-02 | 3 | 65 | 32 | 20 | 53 | 77 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ py-spy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T06:27:46Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T06:27:51Z._
