@@ -14,11 +14,11 @@ x install py-spy
 
 ## 代码洞察
 
-合计: **74,999** 行代码（覆盖前 5 种语言、共 **58** 个文件）。
+合计: **75,003** 行代码（覆盖前 5 种语言、共 **58** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 68,969 | 674 | 1,086 | 39 |
+| Rust | 68,973 | 679 | 1,086 | 39 |
 | C | 4,994 | 220 | 160 | 1 |
 | Python | 540 | 41 | 129 | 15 |
 | Svg | 306 | 0 | 2 | 1 |
@@ -26,13 +26,13 @@ x install py-spy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 12/26 approved changesets -- score normalized to 4
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install py-spy
 ## 发布
 
 - **最新版本**: `v0.4.2` (2026-04-24)
-- **最近提交**: 2026-10-04
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 15,538 · **Fork**: 553 · **开放 issue**: 424 · **贡献者**: 59
+- **Star**: 15,543 · **Fork**: 552 · **开放 issue**: 424 · **贡献者**: 61
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 313 · **开放 PR**: 46 · **已关闭 issue**: 235 · **开放 issue**: 189 · **提交数**: 573
+- **发布数**: 23 · **已合并 PR**: 315 · **开放 PR**: 45 · **已关闭 issue**: 235 · **开放 issue**: 189 · **提交数**: 575
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 4 | 1 | 1 | 1 | 8 |
-| last60d | 2026-08-06 | 0 | 5 | 3 | 1 | 2 | 8 |
-| 90d | 2026-07-07 | 0 | 7 | 4 | 1 | 3 | 8 |
-| last180d | 2026-04-08 | 1 | 21 | 11 | 1 | 7 | 24 |
-| 360d | 2025-10-10 | 1 | 22 | 17 | 5 | 17 | 24 |
-| last720d | 2024-10-15 | 3 | 62 | 24 | 19 | 49 | 76 |
+| 30d | 2026-09-06 | 0 | 5 | 1 | 1 | 1 | 10 |
+| last60d | 2026-08-07 | 0 | 6 | 3 | 1 | 2 | 10 |
+| 90d | 2026-07-08 | 0 | 8 | 4 | 1 | 3 | 10 |
+| last180d | 2026-04-09 | 1 | 23 | 10 | 1 | 7 | 26 |
+| 360d | 2025-10-11 | 1 | 24 | 16 | 5 | 16 | 26 |
+| last720d | 2024-10-16 | 3 | 59 | 22 | 19 | 49 | 74 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ py-spy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:44:58Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:36:42Z._
