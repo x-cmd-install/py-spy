@@ -14,13 +14,13 @@ x install py-spy
 
 ## Code insight
 
-Total: **95,353** lines of code across **59** files in the top 5 languages.
+Total: **95,608** lines of code across **61** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 89,322 | 694 | 1,113 | 40 |
+| Rust | 89,538 | 704 | 1,130 | 40 |
 | C | 4,994 | 220 | 160 | 1 |
-| Python | 541 | 42 | 128 | 15 |
+| Python | 580 | 45 | 146 | 17 |
 | Svg | 306 | 0 | 2 | 1 |
 | Toml | 76 | 0 | 10 | 2 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.2` (2026-04-24)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 15,568 · **Forks**: 554 · **Open issues**: 424 · **Contributors**: 62
+- **Stars**: 15,569 · **Forks**: 554 · **Open issues**: 424 · **Contributors**: 63
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 320 · **Open PRs**: 45 · **Closed issues**: 237 · **Open issues**: 187 · **Commits**: 580
+- **Releases**: 23 · **Merged PRs**: 326 · **Open PRs**: 45 · **Closed issues**: 237 · **Open issues**: 187 · **Commits**: 586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 7 | 3 | 1 | 1 | 15 |
-| last60d | 2026-08-15 | 0 | 9 | 5 | 1 | 2 | 15 |
-| 90d | 2026-07-16 | 0 | 11 | 6 | 1 | 3 | 15 |
-| last180d | 2026-04-17 | 1 | 25 | 11 | 3 | 5 | 29 |
-| 360d | 2025-10-19 | 1 | 28 | 17 | 7 | 12 | 31 |
-| last720d | 2024-10-24 | 3 | 62 | 22 | 21 | 45 | 73 |
+| 30d | 2026-09-15 | 0 | 13 | 4 | 1 | 1 | 21 |
+| last60d | 2026-08-16 | 0 | 15 | 6 | 1 | 2 | 21 |
+| 90d | 2026-07-17 | 0 | 16 | 6 | 1 | 2 | 21 |
+| last180d | 2026-04-18 | 1 | 31 | 11 | 3 | 5 | 35 |
+| 360d | 2025-10-20 | 1 | 34 | 17 | 6 | 12 | 37 |
+| last720d | 2024-10-25 | 3 | 68 | 22 | 21 | 45 | 79 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:06:03Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:46:12Z._
