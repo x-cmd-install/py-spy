@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 17 | 6 | 0 | 1 | 25 |
-| last60d | 2026-08-29 | 0 | 19 | 8 | 1 | 2 | 26 |
-| 90d | 2026-07-30 | 0 | 20 | 9 | 1 | 3 | 26 |
-| last180d | 2026-05-01 | 0 | 27 | 13 | 2 | 5 | 28 |
-| 360d | 2025-11-02 | 1 | 39 | 20 | 6 | 12 | 42 |
-| last720d | 2024-11-07 | 2 | 68 | 25 | 19 | 41 | 73 |
+| 30d | 2026-09-29 | 0 | 17 | 6 | 0 | 1 | 25 |
+| last60d | 2026-08-30 | 0 | 19 | 8 | 1 | 2 | 26 |
+| 90d | 2026-07-31 | 0 | 20 | 9 | 1 | 3 | 26 |
+| last180d | 2026-05-02 | 0 | 27 | 13 | 2 | 5 | 28 |
+| 360d | 2025-11-03 | 1 | 39 | 20 | 6 | 12 | 42 |
+| last720d | 2024-11-08 | 2 | 68 | 25 | 19 | 41 | 73 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:51:16Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:02:54Z._
