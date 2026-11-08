@@ -1,92 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: py-spy
-  visiblename: py-spy
-  version: 0.4.0
-  origversion: null
-  status: outdated
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - daiderd@gmail.com
-  licenses:
-    - MIT
-- repo: aur
-  srcname: py-spy
-  binname: py-spy
-  visiblename: py-spy
-  version: 0.4.2
-  origversion: 0.4.2-1
-  status: outdated
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - yigits@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: py-spy-bin
-  binname: py-spy-bin
-  visiblename: py-spy-bin
-  version: 0.4.2
-  origversion: 0.4.2-1
-  status: outdated
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - funami@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: py-spy-git
-  binname: py-spy-git
-  visiblename: py-spy-git
-  version: 0.4.2.r18.g2106813
-  origversion: 0.4.2.r18.g2106813-1
-  status: rolling
-  summary: Sampling profiler for Python programs (git version)
-  maintainers:
-    - zitro@aur
-  licenses:
-    - MIT
-- repo: freebsd
-  srcname: devel/py-spy
-  binname: py-spy
-  visiblename: devel/py-spy
-  version: 0.4.3
-  origversion: null
-  status: newest
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - devel
-- repo: gentoo
-  srcname: dev-util/py-spy
-  visiblename: dev-util/py-spy
-  version: 0.4.0
-  origversion: null
-  status: legacy
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - sam@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - CDDL
-    - ISC
-    - Unicode-DFS-2016
-  categories:
-    - dev-util
-- repo: nix_stable_26_05
-  srcname: py-spy
-  visiblename: py-spy
-  version: 0.4.0
-  origversion: null
-  status: outdated
-  summary: Sampling profiler for Python programs
-  maintainers:
-    - daiderd@gmail.com
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: dev-util/py-spy
   visiblename: dev-util/py-spy
@@ -114,6 +25,17 @@
   origversion: null
   status: outdated
   summary: Sampling profiler for Python programs
+- repo: nix_stable_24_05
+  srcname: py-spy
+  visiblename: py-spy
+  version: 0.3.14
+  origversion: null
+  status: outdated
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - daiderd@gmail.com
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: py-spy
   visiblename: py-spy
@@ -185,17 +107,73 @@
     - Unicode-DFS-2016
   categories:
     - dev-util
-- repo: nix_stable_24_05
-  srcname: py-spy
-  visiblename: py-spy
-  version: 0.3.14
+- repo: gentoo
+  srcname: dev-util/py-spy
+  visiblename: dev-util/py-spy
+  version: 0.4.0
   origversion: null
+  status: legacy
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CDDL
+    - ISC
+    - Unicode-DFS-2016
+  categories:
+    - dev-util
+- repo: aur
+  srcname: py-spy
+  binname: py-spy
+  visiblename: py-spy
+  version: 0.4.2
+  origversion: 0.4.2-1
   status: outdated
   summary: Sampling profiler for Python programs
   maintainers:
-    - daiderd@gmail.com
+    - yigits@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: py-spy-bin
+  binname: py-spy-bin
+  visiblename: py-spy-bin
+  version: 0.4.3
+  origversion: 0.4.3-1
+  status: newest
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - funami@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: py-spy-git
+  binname: py-spy-git
+  visiblename: py-spy-git
+  version: 0.4.2.r18.g2106813
+  origversion: 0.4.2.r18.g2106813-1
+  status: rolling
+  summary: Sampling profiler for Python programs (git version)
+  maintainers:
+    - zitro@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: devel/py-spy
+  binname: py-spy
+  visiblename: devel/py-spy
+  version: 0.4.3
+  origversion: null
+  status: newest
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
 - repo: nix_stable_24_11
   srcname: py-spy
   visiblename: py-spy
@@ -208,6 +186,28 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
+  srcname: py-spy
+  visiblename: py-spy
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - daiderd@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: py-spy
+  visiblename: py-spy
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Sampling profiler for Python programs
+  maintainers:
+    - daiderd@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
   srcname: py-spy
   visiblename: py-spy
   version: 0.4.0
