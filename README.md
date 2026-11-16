@@ -14,11 +14,11 @@ x install py-spy
 
 ## Code insight
 
-Total: **136,061** lines of code across **63** files in the top 5 languages.
+Total: **136,072** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 129,970 | 689 | 1,159 | 42 |
+| Rust | 129,981 | 691 | 1,164 | 42 |
 | C | 4,994 | 220 | 160 | 1 |
 | Python | 600 | 45 | 149 | 17 |
 | Svg | 306 | 0 | 2 | 1 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,645 · **Forks**: 560 · **Open issues**: 427 · **Contributors**: 66
+- **Stars**: 15,648 · **Forks**: 560 · **Open issues**: 427 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 339 · **Open PRs**: 48 · **Closed issues**: 240 · **Open issues**: 187 · **Commits**: 600
+- **Releases**: 24 · **Merged PRs**: 341 · **Open PRs**: 47 · **Closed issues**: 241 · **Open issues**: 186 · **Commits**: 602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 11 | 5 | 2 | 0 | 13 |
-| last60d | 2026-09-16 | 1 | 26 | 7 | 3 | 2 | 35 |
-| 90d | 2026-08-17 | 1 | 28 | 9 | 3 | 3 | 35 |
-| last180d | 2026-05-19 | 1 | 32 | 12 | 3 | 4 | 35 |
-| 360d | 2025-11-20 | 2 | 47 | 20 | 8 | 11 | 51 |
-| last720d | 2024-11-25 | 3 | 76 | 25 | 19 | 39 | 82 |
+| 30d | 2026-10-17 | 1 | 12 | 4 | 2 | 0 | 15 |
+| last60d | 2026-09-17 | 1 | 28 | 6 | 2 | 2 | 37 |
+| 90d | 2026-08-18 | 1 | 30 | 8 | 3 | 3 | 37 |
+| last180d | 2026-05-20 | 1 | 34 | 11 | 3 | 4 | 37 |
+| 360d | 2025-11-21 | 2 | 49 | 19 | 9 | 10 | 53 |
+| last720d | 2024-11-26 | 3 | 78 | 24 | 20 | 38 | 84 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:49:45Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:36Z._
