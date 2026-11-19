@@ -26,13 +26,13 @@ Total: **136,072** lines of code across **63** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 10/26 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,651 · **Forks**: 560 · **Open issues**: 427 · **Contributors**: 66
+- **Stars**: 15,656 · **Forks**: 560 · **Open issues**: 427 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 341 · **Open PRs**: 47 · **Closed issues**: 241 · **Open issues**: 186 · **Commits**: 602
+- **Releases**: 24 · **Merged PRs**: 340 · **Open PRs**: 46 · **Closed issues**: 241 · **Open issues**: 186 · **Commits**: 602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 12 | 4 | 2 | 0 | 15 |
-| last60d | 2026-09-18 | 1 | 28 | 6 | 2 | 2 | 37 |
-| 90d | 2026-08-19 | 1 | 30 | 7 | 3 | 2 | 37 |
-| last180d | 2026-05-21 | 1 | 34 | 11 | 3 | 4 | 37 |
-| 360d | 2025-11-22 | 2 | 49 | 19 | 9 | 10 | 53 |
-| last720d | 2024-11-27 | 3 | 78 | 24 | 20 | 38 | 84 |
+| 30d | 2026-10-20 | 1 | 11 | 3 | 2 | 0 | 14 |
+| last60d | 2026-09-20 | 1 | 26 | 4 | 2 | 1 | 36 |
+| 90d | 2026-08-21 | 1 | 29 | 6 | 3 | 2 | 36 |
+| last180d | 2026-05-23 | 1 | 33 | 10 | 3 | 4 | 36 |
+| 360d | 2025-11-24 | 2 | 48 | 18 | 9 | 10 | 52 |
+| last720d | 2024-11-29 | 3 | 77 | 23 | 20 | 37 | 84 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for py-spy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:34:29Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:17:55Z._
