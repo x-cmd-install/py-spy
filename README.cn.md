@@ -41,9 +41,9 @@ x install py-spy
 
 ## 发布
 
-- **最新版本**: `v0.4.3` (2026-11-02)
-- **最近提交**: 2026-11-15
-- **Release 含资产**: 9 个
+- **最新版本**: `v0.4.4` (2026-11-19)
+- **最近提交**: 2026-11-19
+- **Release 含资产**: 18 个
 
 ## 流行度
 
@@ -51,32 +51,41 @@ x install py-spy
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 340 · **开放 PR**: 46 · **已关闭 issue**: 241 · **开放 issue**: 186 · **提交数**: 602
+- **发布数**: 25 · **已合并 PR**: 340 · **开放 PR**: 46 · **已关闭 issue**: 241 · **开放 issue**: 186 · **提交数**: 605
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 11 | 3 | 2 | 0 | 14 |
-| last60d | 2026-09-20 | 1 | 26 | 4 | 2 | 1 | 36 |
-| 90d | 2026-08-21 | 1 | 29 | 6 | 3 | 2 | 36 |
-| last180d | 2026-05-23 | 1 | 33 | 10 | 3 | 4 | 36 |
-| 360d | 2025-11-24 | 2 | 48 | 18 | 9 | 10 | 52 |
-| last720d | 2024-11-29 | 3 | 77 | 23 | 20 | 37 | 84 |
+| 30d | 2026-10-21 | 2 | 11 | 3 | 2 | 0 | 17 |
+| last60d | 2026-09-21 | 2 | 26 | 4 | 2 | 1 | 39 |
+| 90d | 2026-08-22 | 2 | 29 | 6 | 3 | 2 | 39 |
+| last180d | 2026-05-24 | 2 | 33 | 10 | 3 | 4 | 39 |
+| 360d | 2025-11-25 | 3 | 48 | 18 | 9 | 10 | 55 |
+| last720d | 2024-11-30 | 4 | 77 | 23 | 20 | 37 | 87 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [py_spy-0.4.3-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl) | 3.5 MiB | `native/darwin/arm64` |
-| [py_spy-0.4.3-py2.py3-none-macosx_11_0_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-macosx_11_0_arm64.whl) | 1.8 MiB | `native/darwin/arm64` |
-| [py_spy-0.4.3-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl) | 2.2 MiB | `native/linux/x86` |
-| [py_spy-0.4.3-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl) | 2.8 MiB | `native/linux/x64` |
-| [py_spy-0.4.3-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl) | 2.7 MiB | `native/linux/arm64` |
-| [py_spy-0.4.3-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl) | 2.7 MiB | `native/linux/arm` |
-| [py_spy-0.4.3-py2.py3-none-win_amd64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-win_amd64.whl) | 1.8 MiB | `other` |
-| [py_spy-0.4.3-py2.py3-none-win_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3-py2.py3-none-win_arm64.whl) | 1.7 MiB | `other` |
-| [py_spy-0.4.3.tar.gz](https://github.com/benfred/py-spy/releases/download/v0.4.3/py_spy-0.4.3.tar.gz) | 325.6 KiB | `native/unknown` |
+| [py_spy-0.4.4-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl) | 3.6 MiB | `native/darwin/arm64` |
+| [py_spy-0.4.4-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl.publish.attestation) | 9.3 KiB | `native/darwin/arm64` |
+| [py_spy-0.4.4-py2.py3-none-macosx_11_0_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_11_0_arm64.whl) | 1.8 MiB | `native/darwin/arm64` |
+| [py_spy-0.4.4-py2.py3-none-macosx_11_0_arm64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_11_0_arm64.whl.publish.attestation) | 9.2 KiB | `native/darwin/arm64` |
+| [py_spy-0.4.4-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl) | 2.3 MiB | `native/linux/x86` |
+| [py_spy-0.4.4-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_i686.manylinux_2_5_i686.whl.publish.attestation) | 9.3 KiB | `native/linux/x86` |
+| [py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl) | 2.8 MiB | `native/linux/x64` |
+| [py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl.publish.attestation) | 9.2 KiB | `native/linux/x64` |
+| [py_spy-0.4.4-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl) | 2.7 MiB | `native/linux/arm64` |
+| [py_spy-0.4.4-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.publish.attestation) | 9.3 KiB | `native/linux/arm64` |
+| [py_spy-0.4.4-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl) | 2.8 MiB | `native/linux/arm` |
+| [py_spy-0.4.4-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl.publish.attestation) | 9.4 KiB | `native/linux/arm` |
+| [py_spy-0.4.4-py2.py3-none-win_amd64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_amd64.whl) | 1.9 MiB | `other` |
+| [py_spy-0.4.4-py2.py3-none-win_amd64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_amd64.whl.publish.attestation) | 9.3 KiB | `other` |
+| [py_spy-0.4.4-py2.py3-none-win_arm64.whl](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_arm64.whl) | 1.7 MiB | `other` |
+| [py_spy-0.4.4-py2.py3-none-win_arm64.whl.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_arm64.whl.publish.attestation) | 9.1 KiB | `other` |
+| [py_spy-0.4.4.tar.gz](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4.tar.gz) | 413.7 KiB | `native/unknown` |
+| [py_spy-0.4.4.tar.gz.publish.attestation](https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4.tar.gz.publish.attestation) | 9.2 KiB | `other` |
 
 ## 发行版状态
 
@@ -84,7 +93,7 @@ x install py-spy
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.4.3` | ✅ latest |
+| Homebrew | `0.4.4` | ✅ latest |
 | Nix unstable | `0.4.2` | ⚠️ outdated |
 | Void | `0.4.0` | ⚠️ outdated |
 
@@ -97,4 +106,4 @@ py-spy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T10:17:55Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T10:13:26Z._
