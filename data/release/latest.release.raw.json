@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3758621,
       "digest": "sha256:d3d3acf5a0cfe7fa8f5b7101dc7d964832e6dc11b0e81877270a071b8ffd6ba0",
-      "download_count": 29,
+      "download_count": 35,
       "created_at": "2026-11-19T19:09:30Z",
       "updated_at": "2026-11-19T19:09:31Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_10_12_universal2.macosx_10_12_x86_64.macosx_11_0_arm64.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1866119,
       "digest": "sha256:8a5adbb5b3ef11bf5132edbd9f841052053abab572f18d3beec166c3f3c14790",
-      "download_count": 30,
+      "download_count": 35,
       "created_at": "2026-11-19T19:09:31Z",
       "updated_at": "2026-11-19T19:09:32Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-macosx_11_0_arm64.whl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2985738,
       "digest": "sha256:286a9ab113d255ffc10bf7e7fe2ae78c82d0dedb95259888e72935cdbd8f41d2",
-      "download_count": 238,
+      "download_count": 332,
       "created_at": "2026-11-19T19:09:30Z",
       "updated_at": "2026-11-19T19:09:30Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9442,
       "digest": "sha256:32be4559e7dfe73e9ed0762e24a1f6b2c3160c07962c70e06d728001cb66507c",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-19T19:09:30Z",
       "updated_at": "2026-11-19T19:09:30Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl.publish.attestation"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2869099,
       "digest": "sha256:a91503bfd625a8ebb304f02ebfe34dd8a5e9873043e6e39138d310840cec18cb",
-      "download_count": 57,
+      "download_count": 76,
       "created_at": "2026-11-19T19:09:30Z",
       "updated_at": "2026-11-19T19:09:30Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1950123,
       "digest": "sha256:aaf9a921788fa48fcbc13068f8171af422eb2024888e70406a790fee3613555e",
-      "download_count": 89,
+      "download_count": 123,
       "created_at": "2026-11-19T19:09:31Z",
       "updated_at": "2026-11-19T19:09:31Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_amd64.whl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1826007,
       "digest": "sha256:358c97827dfe53fb30e2068862367f3ee4bfacaec7a1ba37a184779a2a899dc3",
-      "download_count": 6,
+      "download_count": 12,
       "created_at": "2026-11-19T19:09:30Z",
       "updated_at": "2026-11-19T19:09:31Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4-py2.py3-none-win_arm64.whl"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 423645,
       "digest": "sha256:f8999a122ca2e17875e76114216b3821429f22e0a5d76c10a0a3ff966dca5f3b",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-11-19T19:09:31Z",
       "updated_at": "2026-11-19T19:09:31Z",
       "browser_download_url": "https://github.com/benfred/py-spy/releases/download/v0.4.4/py_spy-0.4.4.tar.gz"
