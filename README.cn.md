@@ -30,9 +30,9 @@ x install py-spy
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 10/26 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 8/26 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install py-spy
 
 ## 流行度
 
-- **Star**: 15,662 · **Fork**: 560 · **开放 issue**: 427 · **贡献者**: 65
+- **Star**: 15,665 · **Fork**: 560 · **开放 issue**: 427 · **贡献者**: 65
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install py-spy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 9 | 3 | 2 | 0 | 13 |
-| last60d | 2026-09-24 | 2 | 26 | 4 | 2 | 1 | 39 |
-| 90d | 2026-08-25 | 2 | 29 | 6 | 3 | 2 | 39 |
-| last180d | 2026-05-27 | 2 | 33 | 10 | 3 | 4 | 39 |
-| 360d | 2025-11-28 | 3 | 48 | 17 | 9 | 9 | 55 |
-| last720d | 2024-12-03 | 4 | 77 | 23 | 20 | 36 | 87 |
+| 30d | 2026-10-25 | 2 | 9 | 3 | 2 | 0 | 13 |
+| last60d | 2026-09-25 | 2 | 26 | 4 | 2 | 1 | 39 |
+| 90d | 2026-08-26 | 2 | 28 | 6 | 3 | 2 | 39 |
+| last180d | 2026-05-28 | 2 | 33 | 10 | 3 | 4 | 39 |
+| 360d | 2025-11-29 | 3 | 48 | 17 | 9 | 9 | 55 |
+| last720d | 2024-12-04 | 4 | 77 | 23 | 20 | 34 | 87 |
 
 ## Release 资产
 
@@ -89,12 +89,12 @@ x install py-spy
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/py-spy) 上共有 **19** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/py-spy) 上共有 **19** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Homebrew | `0.4.4` | ✅ latest |
-| Nix unstable | `0.4.2` | ⚠️ outdated |
+| Nix unstable | `0.4.4` | ✅ latest |
 | Void | `0.4.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -106,4 +106,4 @@ py-spy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:55:17Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:30:14Z._
